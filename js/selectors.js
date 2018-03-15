@@ -8,5 +8,5 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-  return ("img[alt= 'the ninja baby']");
+  return ("img[alt= 'of the ninja baby']");
 }
