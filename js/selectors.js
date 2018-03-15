@@ -1,4 +1,8 @@
 // declare your functions here...
-paragraphSelector(){
-  return $('p')
+function paragraphSelector(){
+   return $('p')
+}
+
+lastImageSelector(){
+  
 }
