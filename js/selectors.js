@@ -8,5 +8,5 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-  return ("img[alt= 'of the ninja baby']");
+  return ('div img:first-child');
 }
